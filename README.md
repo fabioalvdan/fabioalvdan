@@ -2,11 +2,6 @@
 
 🧑‍🏫 Atualmente sou professor de Matemática no [IFRN - Campus Parelhas.](https://portal.ifrn.edu.br/campus/parelhas/).
 
-### Tecnologias:
-- GeoGebra;
-- LaTeX;
-- Python.
-
 ### Contatos:
 <div>
   <a href="http://t.me/fabioalvdan"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
