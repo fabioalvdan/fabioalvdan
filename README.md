@@ -1,6 +1,6 @@
 ## Olá, eu sou Fábio 😁. 
 
-🧑‍🏫 Atualmente sou professor de Matemática no [IFRN - Campus Parelhas.](https://portal.ifrn.edu.br/campus/parelhas/).
+Sou um curioso na área de tecnologia. Aluno da graduação em sistemas para internet - UERN.
 
 ### Contatos:
 <div>
