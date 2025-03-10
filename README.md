@@ -1,6 +1,6 @@
 ## Olá, eu sou Fábio 😁. 
 
-Sou um curioso na área de tecnologia. Aluno da graduação em sistemas para internet - UERN.
+Sou um curioso na área de tecnologia. Um professor de Matemática que gosta de programar.
 
 ### Contatos:
 <div>
